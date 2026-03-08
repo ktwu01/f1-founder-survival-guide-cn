@@ -34,6 +34,7 @@
 - 执行进展（2026-03-07）：已新增 `docs/` Docsify 模板（`index.html`、`_sidebar.md`、文档页面与 resources 子页），并将根目录 `README.md`、`TODO.md` 改为 GitHub 友好可点击结构。
 - 校验目标：确保 GitHub 与 Docsify 两套入口都可点击跳转，降低首次阅读门槛。
 - 执行进展（2026-03-07）：按用户要求在每个文档页末尾新增“风险提示 + 完整免责声明链接”，覆盖根目录文档、`resources/*/README.md`、`docs/*.md` 与 `docs/resources/*.md`。
+- 执行进展（2026-03-07）：按用户要求新增中文文档 `docs/doc-standard-cn.md`（模板、来源分级、发布前自检），并接入 Docsify 顶部导航（`_navbar.md`）与侧边栏（`_sidebar.md`）。
 
 ## Executor's Feedback or Assistance Requests
 
@@ -43,9 +44,13 @@
   2) `npx docsify-cli serve docs` 后侧边栏与页面跳转是否正常。
 - 已补充“每页末尾免责声明链接”需求，请用户抽样点击以下路径验证：
   - 根目录：`README.md`、`TODO.md`、`CONTRIBUTING.md`
-  - Docsify：`docs/README.md`、`docs/todo.md`、`docs/resources/*.md`
+  - Docsify：`docs/README.md`、`docs/project-todo.md`、`docs/resources/*.md`
+- 外部参考仓库学习进展（2026-03-07）：
+  - 已本地克隆并阅读 `charlax/entrepreneurship-resources` 与 `jugaldb/resources_abroad`；
+  - 下一步建议：先引入“标准条目模板 + 来源可信度分级 + 更新时间戳”，再扩充条目数量。
 
 ## Lessons
 
 - 先用最小可用结构启动，后续按证据和需求迭代。
 - 所有关键结论都应附可验证来源链接。
+- 参考仓库可复用的是“信息架构与模板化写法”，不是整段内容搬运。
