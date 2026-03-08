@@ -14,17 +14,14 @@
 
 ## 快速开始
 
-- **GitHub 直接阅读**：从本页导航开始，适合硬核党。
-- **Docsify 文档版**：
+- **直接阅读**：https://ktwu01.github.io/f1-founder-survival-guide/#/
+- **贡献文档**：
   - 入口文件：`docs/index.html`
   - 文档首页：`docs/README.md`
   - 本地预览（可选）：`npx docsify-cli serve docs`
-
-## 文档导航（可点击）
-
-- [项目待办](TODO.md)
-- [贡献指南](CONTRIBUTING.md)
-- [免责声明](DISCLAIMER.md)
+   - [项目待办](TODO.md)
+   - [贡献指南](CONTRIBUTING.md)
+   - [免责声明](DISCLAIMER.md)
 
 ### 核心资源目录
 
