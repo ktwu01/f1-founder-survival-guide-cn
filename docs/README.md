@@ -5,6 +5,7 @@
 
 ## 快速导航
 
+- [文档规范（中文）](doc-standard-cn.md)
 - [项目待办](project-todo.md)
 - [贡献指南](contributing.md)
 - [免责声明](disclaimer.md)
