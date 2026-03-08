@@ -48,6 +48,11 @@
 - 外部参考仓库学习进展（2026-03-07）：
   - 已本地克隆并阅读 `charlax/entrepreneurship-resources` 与 `jugaldb/resources_abroad`；
   - 下一步建议：先引入“标准条目模板 + 来源可信度分级 + 更新时间戳”，再扩充条目数量。
+- 执行进展（2026-03-07）：
+  - 注入幽默风格：在 README 与 4 个核心模块中加入“灵魂拷问”与“真实反面教材”。
+  - 修复 Docsify：解决导航栏消失问题，增加上一页/下一页翻页功能。
+  - 新增模块：`05 融资指南`（Non-dilutive Capital）与 `06 招人指南`（Intern/Co-founder）。
+  - 代码提交：已完成所有变更的 commit 与 push。
 
 ## Lessons
 
