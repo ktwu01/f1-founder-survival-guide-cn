@@ -1,7 +1,16 @@
 # F1 Founder Survival Guide (CN)
 
 给在北美的中文 F1 创业者与准创业者的一份生存手册。  
-核心理念：进攻和退路都要有。
+核心理念：**进攻和退路都要有。**
+
+## 灵魂三问
+
+1. **F1 真的能够创业吗？**  
+   （能，但姿势要对，否则直接送中。）
+2. **F1 学生能够投资吗？**  
+   （能，只要你不当那个“积极参与管理”的倒霉蛋。）
+3. **F1 Founder 创业的 100 种死法？**  
+   （我们正在收集第 101 种，欢迎围观 `03 失败与退出路径`。）
 
 ## 快速导航
 
@@ -12,10 +21,10 @@
 
 ## 核心资源
 
-- [01 身份与法律](resources/01-identity-legal.md)
-- [02 公司与合规](resources/02-company-compliance.md)
-- [03 失败与退出路径](resources/03-failure-exit.md)
-- [04 案例与模板](resources/04-cases-templates.md)
+- [01 身份与法律](resources/01-identity-legal.md) —— 别让自己因为填错表而被遣返。
+- [02 公司与合规](resources/02-company-compliance.md) —— 开公司不难，难的是不被 IRS 和 USCIS 混合双打。
+- [03 失败与退出路径](resources/03-failure-exit.md) —— 创业九死一生，这里教你如何体面地“死”或者“润”。
+- [04 案例与模板](resources/04-cases-templates.md) —— 前人踩过的坑，你没必要再踩一遍。
 
 ## 来源原则
 
