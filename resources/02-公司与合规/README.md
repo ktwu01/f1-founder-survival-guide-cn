@@ -13,7 +13,7 @@
 - **“雇个 Contractor 吧，省得交 Payroll Tax”**  
   （加州 AB5 法案了解一下？把员工当 Contractor 用，罚款能让你直接破产。）
 
-## 等待好心人贡献内容
+## (这部分的细节内容等待好心人贡献~)
 
 - **常见公司结构对比**：
   - C-Corp vs LLC：为什么 YC 只认 C-Corp？
