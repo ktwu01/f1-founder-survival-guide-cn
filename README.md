@@ -44,12 +44,12 @@
 
 ### 核心资源目录（按需取用）
 
-- [01 身份与法律](resources/01-身份与法律/README.md) —— **生存底线**：签证合规、法律红线、避免遣返的实操指南
-- [02 公司与合规](resources/02-公司与合规/README.md) —— **公司搭建**：从 LLC 到 C-Corp，税务结构选择与合规要点
-- [03 失败与退出路径](resources/03-失败与退出路径/README.md) —— **安全网**：创业失败后如何体面退出，保护身份和资产
-- [04 案例与模板](resources/04-案例与模板/README.md) —— **实战工具**：公司章程、股权协议、融资文件等可直接使用的模板
-- [05 融资指南](resources/05-融资指南/README.md) —— **资金策略**：Non-dilutive 融资、天使投资、VC 对接，F1 学生的特殊优势
-- [06 招人指南](resources/06-招人指南/README.md) —— **团队建设**：在没有绿卡和大量资金的情况下，如何吸引和留住人才
+- [01 身份与法律](docs/resources/01-identity-legal.md) —— **生存底线**：签证合规、法律红线、避免遣返的实操指南
+- [02 公司与合规](docs/resources/02-company-compliance.md) —— **公司搭建**：从 LLC 到 C-Corp，税务结构选择与合规要点
+- [03 失败与退出路径](docs/resources/03-failure-exit.md) —— **安全网**：创业失败后如何体面退出，保护身份和资产
+- [04 案例与模板](docs/resources/04-cases-templates.md) —— **实战工具**：公司章程、股权协议、融资文件等可直接使用的模板
+- [05 融资指南](docs/resources/05-fundraising.md) —— **资金策略**：Non-dilutive 融资、天使投资、VC 对接，F1 学生的特殊优势
+- [06 招人指南](docs/resources/06-hiring.md) —— **团队建设**：在没有绿卡和大量资金的情况下，如何吸引和留住人才
 
 ## 仓库解决什么问题
 
