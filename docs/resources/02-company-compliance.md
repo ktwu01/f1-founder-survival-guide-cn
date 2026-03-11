@@ -18,8 +18,39 @@
 **这个部分需要你的帮助！** 如果你有公司注册、税务合规、合同模板等方面的经验，欢迎贡献内容。
 
 ### 常见公司结构对比
-- **C-Corp vs LLC**：为什么 YC 只投资 C-Corp？LLC 的税务穿透 vs C-Corp 的 VC 友好性
-- **Delaware 注册 vs 居住州注册**：优缺点对比，实际成本分析
+
+#### C-Corp vs LLC：VC为什么只投C-Corp？
+
+| 维度 | C-Corp | LLC |
+|------|--------|-----|
+| **VC友好性** | ✅ 标准结构，所有VC都熟悉 | ❌ 大多数VC不投资LLC |
+| **税务处理** | 双重征税（公司税+股东税） | 穿透税制（仅个人纳税） |
+| **投资人类型** | 机构投资人、基金、上市公司 | 个人投资者、小企业主 |
+| **员工期权** | ✅ 标准Stock Option计划 | ⚠️ 复杂，需Profits Interest |
+| **国际投资人** | ✅ 容易接受 | ❌ 税务申报复杂 |
+| **上市准备** | ✅ 直接可上市 | ❌ 需转换为C-Corp |
+
+**YC官方立场**：只投资Delaware C-Corp。原因：标准化、VC友好、员工期权清晰。
+
+#### Delaware注册 vs 居住州注册
+
+| 考虑因素 | Delaware注册 | 居住州注册 |
+|----------|--------------|------------|
+| **初始成本** | $89（注册费）+ $50（年度报告） | 各州不同（CA: $800最低税） |
+| **年度维护** | $225（特许经营税） | 居住州年费+可能的Delaware注册费 |
+| **法律环境** | 公司法最成熟，判例丰富 | 可能不熟悉创业公司问题 |
+| **实际运营** | 仍需在运营州注册为"Foreign Entity" | 直接在本州运营 |
+| **投资人偏好** | ✅ VC最熟悉 | ⚠️ 可能增加尽职调查时间 |
+
+**实际建议**：
+- 如果计划融资：Delaware C-Corp
+- 如果只是小生意：居住州LLC
+- 如果不确定：从Delaware C-Corp开始，转换成本低于重新注册
+
+**来源参考**：
+- [YC Standard Deal Documents](https://www.ycombinator.com/documents/)
+- [Delaware Division of Corporations](https://corp.delaware.gov/)
+- [Stripe Atlas: Why Delaware?](https://stripe.com/atlas/guides/why-delaware)
 
 ### 基础合同模板
 - **创始人协议模板**：包含股权分配、vesting 条款、IP 归属
