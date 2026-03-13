@@ -9,7 +9,7 @@
     *   **例子**：
         *   **Grant（政府/机构拨款）**：SBIR/STTR（注意：通常要求绿卡/公民，但部分学校项目有例外）、校友基金无偿资助。
         *   **Competition Prize（大赛奖金）**：各大高校创业大赛（New Venture Competition），奖金几万刀，Do not Dilute。
-        *   **Revenue-Based Financing (RBF)**：你有流水，我借你钱，你用未来收入还。适合 SaaS/电商。
+        *   **Revenue-Based Financing (RBF)** ：你有流水，我借你钱，你用未来收入还。适合 SaaS/电商。
     *   **F1 优势**：学校里的奖金通常不看身份，只要你是个好学生（或者好项目）。
 
 2.  **Friendly VC / Angel（友好天使）**：
