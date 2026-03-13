@@ -23,6 +23,7 @@
 - **Instacart 创始人 Apoorva Mehta**：加拿大移民，经历20次创业失败后成功
 - **无数 F1 背景的 YC 创业者**：每年都有 F1 学生通过 Y Combinator 等加速器成功起步
 - **开源项目转商业成功**：GitHub、MongoDB 等都是从开源项目起步，规避了早期合规问题
+- **更多华人成功案例**：查看[华人创业成功案例](chinese-entrepreneur-examples.md)获取100个真实例子
 
 ### 留学生如何合法开始创业？
 
@@ -50,6 +51,7 @@
 - [04 案例与模板](resources/04-cases-templates.md) —— **实战工具**：公司章程、股权协议、融资文件等可直接使用的模板
 - [05 融资指南](resources/05-fundraising.md) —— **资金策略**：Non-dilutive 融资、天使投资、VC 对接，F1 学生的特殊优势
 - [06 招人指南](resources/06-hiring.md) —— **团队建设**：在没有绿卡和大量资金的情况下，如何吸引和留住人才
+- [华人创业成功案例](chinese-entrepreneur-examples.md) —— **榜样参考**：100个华人真实的创业成功例子，包括F1签证持有者
 
 ## 来源原则
 

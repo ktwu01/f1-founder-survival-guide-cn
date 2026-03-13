@@ -17,3 +17,4 @@
   * [04 案例与模板](resources/04-cases-templates.md)
   * [05 融资指南](resources/05-fundraising.md)
   * [06 招人指南](resources/06-hiring.md)
+  * [华人创业成功案例](chinese-entrepreneur-examples.md)
